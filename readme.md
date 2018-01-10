@@ -1,4 +1,5 @@
 ## Spring 4 + MyBatis 3 + MariaDB 기반 웹 프로젝트 템플릿 ##
+fork test 
 본 샘플은  Spring 4 + MyBatis 3 + MariaDB (Maven) 기반으로  제작한 웹 프로젝트 템플릿이다.
 
 웹 개발시 많이 사용되는 다양한 기능들 미리 구현해 두고 복사해서 사용하기 위해 제작하였다.
